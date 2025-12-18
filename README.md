@@ -1,2 +1,2 @@
 # nxlog_config
-nxlog config_syslog over TLS
+nxlog configuration for syslog over TLS
